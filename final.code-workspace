@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../03-Developer-Skills/final"
+	},
+	{
+		"path": "../../03-Developer-Skills/starter"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "starter"
+  }
+}
